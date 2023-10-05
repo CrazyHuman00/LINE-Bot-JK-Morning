@@ -1,4 +1,6 @@
+# !/bin/bash
 # -*- coding: utf-8 -*-
+# LKが朝起こしてくれるLINEBot
 
 import json
 from linebot import LineBotApi, WebhookHandler
